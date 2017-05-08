@@ -14,9 +14,9 @@ PODS:
   - AFNetworking/Serialization (3.1.0)
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
-  - Realm (2.6.2):
-    - Realm/Headers (= 2.6.2)
-  - Realm/Headers (2.6.2)
+  - Realm (2.7.0):
+    - Realm/Headers (= 2.7.0)
+  - Realm/Headers (2.7.0)
 
 DEPENDENCIES:
   - AFNetworking
@@ -24,8 +24,8 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
-  Realm: 29222766425b9f831228f81b63f0e38a97a4d700
+  Realm: 07e5d3a9e0e41d65fd5f9f05150ed6295d0f093b
 
 PODFILE CHECKSUM: 17480ae24a9acdd5ae51de9d8dde522c7643c3bc
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.2.1
